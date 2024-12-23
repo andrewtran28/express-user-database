@@ -15,5 +15,13 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "A simple express server that allows you to create, modify, and search users in a simulated database.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtran28/express-user-database.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewtran28/express-user-database/issues"
+  },
+  "homepage": "https://github.com/andrewtran28/express-user-database#readme"
 }
